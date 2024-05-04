@@ -1,0 +1,17 @@
+{
+   "app_description": {
+      "message": "Dark Green YouTube theme that's easy on the eyes."
+   },
+   "app_name": {
+      "message": "YouTube Dark Green Plus™"
+   },
+   "full_description":{
+      "message" :"Youtube Dark Green Plus™ is a content filtering and ad blocking browser extension which blocks all ads on Youtube™.It allows users to prevent page elements, such as advertisements, from being displayed. Banner, Ad-Clips or even preroll ads you usually see before the actual video on Youtube are blocked by this extension."
+   },
+   "rate":{
+      "message": "Please help and rate us!"
+   },
+   "donate":{
+      "message" :"donation"
+   }
+}
